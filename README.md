@@ -9,7 +9,7 @@
 </div>
 
 ## 🌐 Website
-Visit the [La Pizza](https://newsletter-blush-one.vercel.app/) to explore the live site.
+Visit the [La Pizza](https://la-pizza-xi.vercel.app/) to explore the live site.
 
 ## 📃 Challenge
 Visit the [Codelândia](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=624-2&mode=design&t=bzkjbPx7uohIz2Ar-0) to explore the live site.
